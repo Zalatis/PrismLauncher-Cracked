@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-Fork of [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) enabling offline accounts without Microsoft authentication. Not affiliated with the official project.
+Fork of [Prism Launcher](https://github.com/Diegiwg/PrismLauncher-Cracked) that is also a Fork of [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) enabling offline accounts without Microsoft authentication. Not affiliated with the official project.
 
 ## Download
 
